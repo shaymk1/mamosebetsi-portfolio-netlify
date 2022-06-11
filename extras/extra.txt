@@ -1,0 +1,3 @@
+// "homepage": "http://shaymk1.github.io/Mamosebetsi-Kekae-Website",
+"predeploy": "npm run build",
+		"deploy": "gh-pages -d build",
